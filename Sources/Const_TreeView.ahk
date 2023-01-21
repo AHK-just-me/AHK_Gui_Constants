@@ -79,7 +79,7 @@ Global TVN_ENDLABELEDITA       := -411 ; (TVN_FIRST - 11)
 Global TVN_ENDLABELEDITW       := -460 ; (TVN_FIRST - 60)
 Global TVN_GETDISPINFOA        := -403 ; (TVN_FIRST - 3)
 Global TVN_GETDISPINFOW        := -452 ; (TVN_FIRST - 52)
-Global TVN_GETINFOTIPA         := -412 ; (TVN_FIRST - 13)
+Global TVN_GETINFOTIPA         := -413 ; (TVN_FIRST - 13)
 Global TVN_GETINFOTIPW         := -414 ; (TVN_FIRST - 14)
 Global TVN_ITEMCHANGEDA        := -418 ; (TVN_FIRST - 18) ; >= Vista
 Global TVN_ITEMCHANGEDW        := -419 ; (TVN_FIRST - 19) ; >= Vista
