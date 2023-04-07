@@ -3,6 +3,8 @@
 ; AHK version:      1.1.05+
 ; Language:         English
 ; Version:          1.0.00.00/2012-04-01/just me
+;                   1.0.00.01/2023-01-21/just me     - Fixed TVN_INFOTIPA
+;                   1.0.00.02/2023-04-07/just me     - Fixed TVN_BEGINLABELEDITW
 ; ======================================================================================================================
 ; CCM_FIRST = 0x2000
 ; TV_FIRST  = 0x1100
