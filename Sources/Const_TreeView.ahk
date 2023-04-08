@@ -72,7 +72,7 @@ Global TVN_ASYNCDRAW           := -420 ; (TVN_FIRST - 20) >= Vista
 Global TVN_BEGINDRAGA          := -407 ; (TVN_FIRST - 7)
 Global TVN_BEGINDRAGW          := -456 ; (TVN_FIRST - 56)
 Global TVN_BEGINLABELEDITA     := -410 ; (TVN_FIRST - 10)
-Global TVN_BEGINLABELEDITW     := -456 ; (TVN_FIRST - 59)
+Global TVN_BEGINLABELEDITW     := -459 ; (TVN_FIRST - 59)
 Global TVN_BEGINRDRAGA         := -408 ; (TVN_FIRST - 8)
 Global TVN_BEGINRDRAGW         := -457 ; (TVN_FIRST - 57)
 Global TVN_DELETEITEMA         := -409 ; (TVN_FIRST - 9)
